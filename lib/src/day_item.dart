@@ -27,7 +27,7 @@ class DayItem extends StatelessWidget {
     this.dayNameColor,
   }) : super(key: key);
 
-  final double height = 70.0;
+  final double height = 80.0;
   final double width = 60.0;
 
   _buildDay(BuildContext context) {
